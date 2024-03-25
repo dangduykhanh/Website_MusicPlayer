@@ -46,24 +46,10 @@ const app = {
     },
 
     {
-      name: 'Girls Like You',
-      singer: 'Maroon 5 - ft. Cardi B',
-      path: './assets/music/GirlsLikeYou.mp3',
-      image: './assets/img/GirlsLikeYou.jpeg',
-    },
-
-    {
       name: 'Goodbye',
       singer: 'DIA - 안녕',
       path: './assets/music/Goodbye.mp3',
       image: './assets/img/Goodbye.jpeg',
-    },
-
-    {
-      name: 'Sau Lời Khước Từ',
-      singer: 'Phan Mạnh Quỳnh',
-      path: './assets/music/SauLoiKhuocTu.mp3',
-      image: './assets/img/SauLoiKhuocTu.jpg',
     },
 
     {
@@ -88,24 +74,10 @@ const app = {
     },
 
     {
-      name: 'La La La',
-      singer: 'Sam Smith',
-      path: './assets/music/LaLaLa.mp3',
-      image: './assets/img/LaLaLa.jpeg',
-    },
-
-    {
       name: 'Đáy Biển',
       singer: 'Nhất Chi Lựu Liên',
       path: './assets/music/DayBien.mp3',
       image: './assets/img/DayBien.jpeg',
-    },
-
-    {
-      name: 'Bước Qua Mùa Cô Đơn',
-      singer: 'Vũ',
-      path: './assets/music/BuocQuaMuaCoDon.mp3',
-      image: './assets/img/BuocQuaMuaCoDon.jpeg',
     },
   ],
 
